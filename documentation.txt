@@ -1,0 +1,13 @@
+Designed for the blind / visually impaired. No vision required to play the game.
+
+
+
+
+Objective:
+Avoid the enemies as they come towards you for as long as possible
+
+How to play:
+Move the mouse to the left and right to dodge left and right of the enemies. 
+Use sounds to detect how close enemies are to you.
+
+Too close and its game over for you!
